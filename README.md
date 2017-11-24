@@ -2,6 +2,8 @@
 
 > cell app
 
+链接 [demo](http://totrip.xin:8888)
+
 ## Build Setup
 
 ``` bash
