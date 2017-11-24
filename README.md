@@ -2,7 +2,7 @@
 
 > cell app
 
-链接 [demo](http://totrip.xin:8888)
+>用手机打开链接 [demo](http://totrip.xin:9000)
 
 ## Build Setup
 
