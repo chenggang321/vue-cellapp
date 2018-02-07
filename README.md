@@ -3,6 +3,7 @@
 > cell app
 
 >用手机打开链接 [demo](http://totrip.xin:9000)
+![二维码](/codeImages/1517967942.png)
 
 ## Build Setup
 
